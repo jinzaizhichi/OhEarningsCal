@@ -605,11 +605,6 @@
     "industry": "Construction & Engineering"
   },
   {
-    "symbol": "CAG",
-    "companyName": "Conagra Brands",
-    "industry": "Packaged Foods & Meats"
-  },
-  {
     "symbol": "COP",
     "companyName": "ConocoPhillips",
     "industry": "Oil & Gas Exploration & Production"
@@ -1180,8 +1175,13 @@
     "industry": "Home Improvement Retail"
   },
   {
+    "symbol": "HONA",
+    "companyName": "Honeywell Aerospace",
+    "industry": "Aerospace & Defense"
+  },
+  {
     "symbol": "HON",
-    "companyName": "Honeywell",
+    "companyName": "Honeywell Technologies",
     "industry": "Industrial Conglomerates"
   },
   {

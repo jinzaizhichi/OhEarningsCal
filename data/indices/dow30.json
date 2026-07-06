@@ -5,6 +5,11 @@
     "industry": "Industrials"
   },
   {
+    "symbol": "GOOGL",
+    "companyName": "Alphabet",
+    "industry": "Communication Services"
+  },
+  {
     "symbol": "AXP",
     "companyName": "American Express",
     "industry": "Financials"
@@ -66,7 +71,7 @@
   },
   {
     "symbol": "HON",
-    "companyName": "Honeywell",
+    "companyName": "Honeywell Technologies",
     "industry": "Industrials"
   },
   {
@@ -133,11 +138,6 @@
     "symbol": "UNH",
     "companyName": "UnitedHealth Group",
     "industry": "Health Care"
-  },
-  {
-    "symbol": "VZ",
-    "companyName": "Verizon",
-    "industry": "Communication Services"
   },
   {
     "symbol": "V",
