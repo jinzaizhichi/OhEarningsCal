@@ -415,11 +415,6 @@
     "industry": "Multi-Family Residential REITs"
   },
   {
-    "symbol": "CPB",
-    "companyName": "Campbell's Company (The)",
-    "industry": "Packaged Foods & Meats"
-  },
-  {
     "symbol": "COF",
     "companyName": "Capital One",
     "industry": "Consumer Finance"
@@ -608,11 +603,6 @@
     "symbol": "FIX",
     "companyName": "Comfort Systems USA",
     "industry": "Construction & Engineering"
-  },
-  {
-    "symbol": "CAG",
-    "companyName": "Conagra Brands",
-    "industry": "Packaged Foods & Meats"
   },
   {
     "symbol": "COP",
@@ -825,7 +815,7 @@
     "industry": "Broadline Retail"
   },
   {
-    "symbol": "SATS",
+    "symbol": "ECHO",
     "companyName": "EchoStar",
     "industry": "Wireless Telecommunication Services"
   },
@@ -873,11 +863,6 @@
     "symbol": "EOG",
     "companyName": "EOG Resources",
     "industry": "Oil & Gas Exploration & Production"
-  },
-  {
-    "symbol": "EPAM",
-    "companyName": "EPAM Systems",
-    "industry": "IT Consulting & Other Services"
   },
   {
     "symbol": "EQT",
@@ -990,6 +975,11 @@
     "industry": "Air Freight & Logistics"
   },
   {
+    "symbol": "FDXF",
+    "companyName": "FedEx Freight",
+    "industry": "Cargo Ground Transportation"
+  },
+  {
     "symbol": "FIS",
     "companyName": "Fidelity National Information Services",
     "industry": "Transaction & Payment Processing Services"
@@ -1013,6 +1003,11 @@
     "symbol": "FISV",
     "companyName": "Fiserv",
     "industry": "Transaction & Payment Processing Services"
+  },
+  {
+    "symbol": "FLEX",
+    "companyName": "Flex Ltd.",
+    "industry": "Electronic Manufacturing Services"
   },
   {
     "symbol": "F",
@@ -1180,8 +1175,13 @@
     "industry": "Home Improvement Retail"
   },
   {
+    "symbol": "HONA",
+    "companyName": "Honeywell Aerospace",
+    "industry": "Aerospace & Defense"
+  },
+  {
     "symbol": "HON",
-    "companyName": "Honeywell",
+    "companyName": "Honeywell Technologies",
     "industry": "Industrial Conglomerates"
   },
   {
@@ -1508,6 +1508,11 @@
     "symbol": "MLM",
     "companyName": "Martin Marietta Materials",
     "industry": "Construction Materials"
+  },
+  {
+    "symbol": "MRVL",
+    "companyName": "Marvell Technology",
+    "industry": "Semiconductors"
   },
   {
     "symbol": "MAS",
@@ -1848,11 +1853,6 @@
     "symbol": "PNC",
     "companyName": "PNC Financial Services",
     "industry": "Diversified Banks"
-  },
-  {
-    "symbol": "POOL",
-    "companyName": "Pool Corporation",
-    "industry": "Distributors"
   },
   {
     "symbol": "PPG",
