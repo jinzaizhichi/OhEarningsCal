@@ -220,9 +220,14 @@
     "industry": "Biotechnology"
   },
   {
+    "symbol": "HONA",
+    "companyName": "Honeywell Aerospace",
+    "industry": "Aerospace"
+  },
+  {
     "symbol": "HON",
     "companyName": "Honeywell Technologies",
-    "industry": "Aerospace"
+    "industry": "Diversified Industrials"
   },
   {
     "symbol": "IDXX",
@@ -433,6 +438,11 @@
     "symbol": "SHOP",
     "companyName": "Shopify",
     "industry": "Software"
+  },
+  {
+    "symbol": "SPCX",
+    "companyName": "SpaceX",
+    "industry": "Telecommunications Services"
   },
   {
     "symbol": "SBUX",
